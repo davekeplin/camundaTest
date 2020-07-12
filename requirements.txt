@@ -1,0 +1,2 @@
+requests==2.24.0
+pycamunda==0.0.1b3
